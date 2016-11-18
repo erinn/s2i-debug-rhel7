@@ -32,4 +32,4 @@ USER 1001
 # EXPOSE 8080
 
 # By default a NULL command just to keep the container running.
-CMD ['tail', '-f', '/dev/null']
+CMD ["usage"]
